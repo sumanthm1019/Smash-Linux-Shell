@@ -1,0 +1,1 @@
+C++ implementation of a linux shell that provides parsing and execution of all shell commands along with pipes, IO redirection, filename autocompletion(TAB), history of commands(Up arrow) 
